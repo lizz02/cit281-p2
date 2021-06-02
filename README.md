@@ -17,15 +17,6 @@
 
 ## Objectives
 
-Practice completing tasks using the command line interface. 
-
-![p1-break](/refactor/p1-break.png)
-
-![p1-ping](/refactor/p1-ping.png)
-
-![p1-tree](/refactor/p1-tree.png)
-
-![p1-folders](/refactor/p1-folders.png)
 
 ### Write functions which returns a string of 10-20 random letters from the English alphabet sorted in alphabetical order using non-server node.js javascript code. Commit to github using the terminal.
 
@@ -68,7 +59,7 @@ Result example:
 
 ![p2-random.js result](p2-random.png)
 
-### Copy code from p2-random.js and update functions to be function expressions. Commit to github using VSCode and compare the two files.
+### Copy code from p2-random.js and update functions to be function expressions. Commit to github using VSCode.
 ```
 // Returns a random number between min (inclusive) and max (exclusive)
 const getRandomInteger = function(min, max) {
@@ -99,10 +90,11 @@ const getSortedString = function(string) {
 console.log(getSortedString(getRandomString(10, 20)));
 ```
 
-File comparison:
-![p2-vscode-diff](p2-vscode-diff.png)
-
 Result example:
 
 ![p2-expressions.js result](p2-expressions.png)
+
+### Compare .gitignore files in VSCode
+
+![p2-vscode-diff](refactor/p2-vscode-diff.png)
 
