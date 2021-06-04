@@ -2,7 +2,7 @@
 
 - CLI commands
 - Using CLI to commit files to github
-- Using VSCode to commut files to github 
+- Using VSCode to commit files to github 
 - Creating a .gitignore file
 - Non-web server Node.js JavaScript code
     - Functions
@@ -52,7 +52,7 @@ console.log(getSortedString(getRandomString(10, 20)));
 Record of commits through terminal:
 [p2-random-commits](https://lizz02.github.io/cit281-p2/refactor/p2-random-commits.txt)
 
-Record of files commited to github:
+Record of files committed to github:
 [p2-random-files](https://lizz02.github.io/cit281-p2/refactor/p2-random-files.txt)
 
 Result example:
